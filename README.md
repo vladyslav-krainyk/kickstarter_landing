@@ -1,2 +1,3 @@
-# KICKSTARTER
-    - [DEMO LINK](https://vladyslav-krainyk.github.io/kickstarter_landing/)
+# Kickstarter
+Kickstarter:
+  - [DEMO LINK](https://vladyslav-krainyk.github.io/kickstarter_landing/)
